@@ -1,2 +1,2 @@
 # Gk
-A simple go web framework created by myself
+A simple go web framework
